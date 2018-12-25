@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schedule", "Schedule\Schedule.csproj", "{2FC7AA65-1CFC-4EFA-872E-86151F093BA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FC7AA65-1CFC-4EFA-872E-86151F093BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC7AA65-1CFC-4EFA-872E-86151F093BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC7AA65-1CFC-4EFA-872E-86151F093BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC7AA65-1CFC-4EFA-872E-86151F093BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1D7F4F7-52B0-4AD3-A515-9A373729130E}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://justmyhome.ru:63245/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Schedule\\Schedule.csproj
+		SccProjectName1 = Schedule
+		SccLocalPath1 = Schedule
+	EndGlobalSection
+EndGlobal
